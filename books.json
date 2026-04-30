@@ -1,0 +1,26 @@
+[
+  {
+    "title": "English",
+    "author": "Godis",
+    "year": " 2020",
+    "isbn": " 125790"
+  },
+  {
+    "title": "DiscreteMath",
+    "author": "Kokovska",
+    "year": " 2009",
+    "isbn": "  764189"
+  },
+  {
+    "title": "ProgrammingC++",
+    "author": "Goshko",
+    "year": " 2026",
+    "isbn": " 187263"
+  },
+  {
+    "title": "Calculous",
+    "author": "Golovata",
+    "year": " 2018",
+    "isbn": " 871626"
+  }
+]
